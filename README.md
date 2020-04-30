@@ -18,6 +18,6 @@ to
 
 ``````
 .has-jax 
-	overflow: visible
+  overflow: visible
 ``````
 
